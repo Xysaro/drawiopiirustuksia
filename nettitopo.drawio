@@ -1,70 +1,122 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16">
   <diagram name="Page-1" id="5Y12B-AjyQcpdX293QFU">
-    <mxGraphModel dx="1620" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3060" dy="2820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1OphN91VMQWuA03h3con-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="1OphN91VMQWuA03h3con-8" target="1OphN91VMQWuA03h3con-12">
+        <mxCell id="1OphN91VMQWuA03h3con-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;" parent="1" source="1OphN91VMQWuA03h3con-8" target="1OphN91VMQWuA03h3con-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1OphN91VMQWuA03h3con-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="1OphN91VMQWuA03h3con-8" target="1OphN91VMQWuA03h3con-15">
+        <mxCell id="1OphN91VMQWuA03h3con-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;shape=link;" parent="1" source="1OphN91VMQWuA03h3con-8" target="1OphN91VMQWuA03h3con-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1OphN91VMQWuA03h3con-8" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+        <mxCell id="iBO2gN0H3ThtQ6zz-BQZ-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="1OphN91VMQWuA03h3con-8" target="1OphN91VMQWuA03h3con-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1OphN91VMQWuA03h3con-8" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" parent="1" vertex="1">
           <mxGeometry x="470" y="110" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1OphN91VMQWuA03h3con-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=link;" edge="1" parent="1" source="1OphN91VMQWuA03h3con-9" target="1OphN91VMQWuA03h3con-8">
+        <mxCell id="1OphN91VMQWuA03h3con-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=link;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1OphN91VMQWuA03h3con-9" target="1OphN91VMQWuA03h3con-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1OphN91VMQWuA03h3con-9" value="&lt;div&gt;REITITIN / WIFI AP&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="70" y="150" width="80" height="80" as="geometry" />
+        <mxCell id="1OphN91VMQWuA03h3con-9" value="&lt;div&gt;REITITIN / WIFI AP&lt;/div&gt;&lt;div&gt;OPENWRT&lt;br&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="210" y="-10" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1OphN91VMQWuA03h3con-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1OphN91VMQWuA03h3con-11" target="1OphN91VMQWuA03h3con-9">
+        <mxCell id="1OphN91VMQWuA03h3con-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1OphN91VMQWuA03h3con-11" target="1OphN91VMQWuA03h3con-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1OphN91VMQWuA03h3con-11" value="MODEEMI" style="image;html=1;image=img/lib/clip_art/networking/Modem_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="70" y="40" width="80" height="80" as="geometry" />
+        <mxCell id="1OphN91VMQWuA03h3con-11" value="MODEEMI" style="image;html=1;image=img/lib/clip_art/networking/Modem_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="210" y="-210" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1OphN91VMQWuA03h3con-12" value="SERVERIKONE" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="1">
+        <mxCell id="1OphN91VMQWuA03h3con-12" value="SERVERIKONE" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" parent="1" vertex="1">
           <mxGeometry x="40" y="530" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1OphN91VMQWuA03h3con-13" value="HOMEASSISTANT VM" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Machine_128x128.png" vertex="1" parent="1">
+        <mxCell id="1OphN91VMQWuA03h3con-13" value="HOMEASSISTANT VM" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Machine_128x128.png" parent="1" vertex="1">
           <mxGeometry x="40" y="630" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1OphN91VMQWuA03h3con-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="500" width="540" height="275" as="geometry" />
+        <mxCell id="1OphN91VMQWuA03h3con-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="490" width="540" height="275" as="geometry" />
         </mxCell>
-        <mxCell id="1OphN91VMQWuA03h3con-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=0;flowAnimation=0;shape=link;" edge="1" parent="1" source="1OphN91VMQWuA03h3con-14" target="1OphN91VMQWuA03h3con-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1OphN91VMQWuA03h3con-14" value="MAHITKONE" style="image;html=1;image=img/lib/clip_art/computers/Monitor_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="710" y="35" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1OphN91VMQWuA03h3con-14" value="MAHITKONE" style="image;html=1;image=img/lib/clip_art/computers/Monitor_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="710" y="30" width="80" height="80" as="geometry" />
+        <mxCell id="1OphN91VMQWuA03h3con-15" value="HTPC" style="image;html=1;image=img/lib/clip_art/computers/Monitor_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="710" y="185" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1OphN91VMQWuA03h3con-15" value="HTPC" style="image;html=1;image=img/lib/clip_art/computers/Monitor_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="710" y="180" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1OphN91VMQWuA03h3con-24" value="ESPHOME WIFI REITITIN" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" vertex="1" parent="1">
+        <mxCell id="1OphN91VMQWuA03h3con-24" value="&lt;div&gt;ESPHOME WIFI REITITIN&lt;/div&gt;&lt;div&gt;DHCP-SEVER&lt;br&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" parent="1" vertex="1">
           <mxGeometry x="400" y="600" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1OphN91VMQWuA03h3con-26" value="PC-CONTROL" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot;" vertex="1" parent="1">
+        <mxCell id="1OphN91VMQWuA03h3con-26" value="PC-CONTROL" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot;" parent="1" vertex="1">
           <mxGeometry x="570" y="610" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1OphN91VMQWuA03h3con-27" value="SOCKET" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot;" vertex="1" parent="1">
+        <mxCell id="1OphN91VMQWuA03h3con-27" value="SOCKET" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot;" parent="1" vertex="1">
           <mxGeometry x="660" y="610" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1OphN91VMQWuA03h3con-28" value="VINDRIKTNING" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot;" vertex="1" parent="1">
+        <mxCell id="1OphN91VMQWuA03h3con-28" value="VINDRIKTNING" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot;" parent="1" vertex="1">
           <mxGeometry x="760" y="610" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1OphN91VMQWuA03h3con-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=link;" edge="1" parent="1" source="1OphN91VMQWuA03h3con-13" target="1OphN91VMQWuA03h3con-24">
+        <mxCell id="1OphN91VMQWuA03h3con-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=link;" parent="1" source="1OphN91VMQWuA03h3con-13" target="1OphN91VMQWuA03h3con-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1OphN91VMQWuA03h3con-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;shape=link;" edge="1" parent="1" source="1OphN91VMQWuA03h3con-9" target="1OphN91VMQWuA03h3con-24">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="130" y="415" />
-              <mxPoint x="430" y="415" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="iBO2gN0H3ThtQ6zz-BQZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="iBO2gN0H3ThtQ6zz-BQZ-6" target="1OphN91VMQWuA03h3con-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iBO2gN0H3ThtQ6zz-BQZ-6" value="ZIGBEÉ EDGEROUTER" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="510" y="-160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iBO2gN0H3ThtQ6zz-BQZ-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="890" y="-250" width="405" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="iBO2gN0H3ThtQ6zz-BQZ-16" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="iBO2gN0H3ThtQ6zz-BQZ-20">
+          <mxGeometry width="385.00000000000006" height="162.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iBO2gN0H3ThtQ6zz-BQZ-19" value="ZIGBEE NETWORK" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="iBO2gN0H3ThtQ6zz-BQZ-20">
+          <mxGeometry x="56.61764705882353" y="162.5" width="271.7647058823529" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iBO2gN0H3ThtQ6zz-BQZ-11" value="&lt;div&gt;LAMP1&lt;/div&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot;" vertex="1" parent="iBO2gN0H3ThtQ6zz-BQZ-20">
+          <mxGeometry x="15.00469135802473" y="30" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iBO2gN0H3ThtQ6zz-BQZ-12" value="&lt;div&gt;LAMP2&lt;/div&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot;" vertex="1" parent="iBO2gN0H3ThtQ6zz-BQZ-20">
+          <mxGeometry x="86.98370370370367" y="30" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iBO2gN0H3ThtQ6zz-BQZ-13" value="&lt;div&gt;LAMP3&lt;/div&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot;" vertex="1" parent="iBO2gN0H3ThtQ6zz-BQZ-20">
+          <mxGeometry x="156.98271604938282" y="30" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iBO2gN0H3ThtQ6zz-BQZ-14" value="&lt;div&gt;PISTORASIA&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot;" vertex="1" parent="iBO2gN0H3ThtQ6zz-BQZ-20">
+          <mxGeometry x="226.98172839506174" y="30" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iBO2gN0H3ThtQ6zz-BQZ-21" value="LÄMPÖANTURI" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot;" vertex="1" parent="iBO2gN0H3ThtQ6zz-BQZ-20">
+          <mxGeometry x="296.98074074074077" y="30" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iBO2gN0H3ThtQ6zz-BQZ-45" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="880" y="60" width="550" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="iBO2gN0H3ThtQ6zz-BQZ-44" value="" style="group" vertex="1" connectable="0" parent="iBO2gN0H3ThtQ6zz-BQZ-45">
+          <mxGeometry width="550" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="iBO2gN0H3ThtQ6zz-BQZ-42" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iBO2gN0H3ThtQ6zz-BQZ-44">
+          <mxGeometry width="550" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="iBO2gN0H3ThtQ6zz-BQZ-43" value="OPENWRT&amp;nbsp; WLAN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="iBO2gN0H3ThtQ6zz-BQZ-44">
+          <mxGeometry x="180" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iBO2gN0H3ThtQ6zz-BQZ-30" value="KÄNNYKKÄ" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png" vertex="1" parent="iBO2gN0H3ThtQ6zz-BQZ-44">
+          <mxGeometry x="130" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iBO2gN0H3ThtQ6zz-BQZ-31" value="TABLETTI1" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png" vertex="1" parent="iBO2gN0H3ThtQ6zz-BQZ-44">
+          <mxGeometry x="235" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iBO2gN0H3ThtQ6zz-BQZ-32" value="TABLETTI2" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png" vertex="1" parent="iBO2gN0H3ThtQ6zz-BQZ-44">
+          <mxGeometry x="340" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iBO2gN0H3ThtQ6zz-BQZ-10" value="3D PRINTTERI" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="iBO2gN0H3ThtQ6zz-BQZ-45">
+          <mxGeometry x="20" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iBO2gN0H3ThtQ6zz-BQZ-29" value="LÄPPÄRI1" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="iBO2gN0H3ThtQ6zz-BQZ-45">
+          <mxGeometry x="20" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iBO2gN0H3ThtQ6zz-BQZ-33" value="LÄPPÄRI2" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="iBO2gN0H3ThtQ6zz-BQZ-45">
+          <mxGeometry x="150" y="180" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
