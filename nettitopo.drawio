@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16">
   <diagram name="Page-1" id="5Y12B-AjyQcpdX293QFU">
-    <mxGraphModel dx="3060" dy="2820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1721" dy="2068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="1OphN91VMQWuA03h3con-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=link;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1OphN91VMQWuA03h3con-9" target="1OphN91VMQWuA03h3con-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1OphN91VMQWuA03h3con-9" value="&lt;div&gt;REITITIN / WIFI AP&lt;/div&gt;&lt;div&gt;OPENWRT&lt;br&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" parent="1" vertex="1">
+        <mxCell id="1OphN91VMQWuA03h3con-9" value="&lt;div&gt;REITITIN / WIFI AP&lt;/div&gt;&lt;div&gt;OPENWRT&lt;/div&gt;&lt;div&gt;DHCP-SERVER&lt;br&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" parent="1" vertex="1">
           <mxGeometry x="210" y="-10" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1OphN91VMQWuA03h3con-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1OphN91VMQWuA03h3con-11" target="1OphN91VMQWuA03h3con-9" edge="1">
