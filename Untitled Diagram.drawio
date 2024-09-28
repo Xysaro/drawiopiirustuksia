@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16">
+  <diagram name="Page-1" id="5Y12B-AjyQcpdX293QFU">
+    <mxGraphModel dx="1620" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1OphN91VMQWuA03h3con-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="1OphN91VMQWuA03h3con-8" target="1OphN91VMQWuA03h3con-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1OphN91VMQWuA03h3con-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="1OphN91VMQWuA03h3con-8" target="1OphN91VMQWuA03h3con-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1OphN91VMQWuA03h3con-8" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="470" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1OphN91VMQWuA03h3con-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=link;" edge="1" parent="1" source="1OphN91VMQWuA03h3con-9" target="1OphN91VMQWuA03h3con-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1OphN91VMQWuA03h3con-9" value="&lt;div&gt;REITITIN / WIFI AP&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="70" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1OphN91VMQWuA03h3con-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1OphN91VMQWuA03h3con-11" target="1OphN91VMQWuA03h3con-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1OphN91VMQWuA03h3con-11" value="MODEEMI" style="image;html=1;image=img/lib/clip_art/networking/Modem_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="70" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1OphN91VMQWuA03h3con-12" value="SERVERIKONE" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="40" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1OphN91VMQWuA03h3con-13" value="HOMEASSISTANT VM" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Machine_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="40" y="630" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1OphN91VMQWuA03h3con-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="500" width="540" height="275" as="geometry" />
+        </mxCell>
+        <mxCell id="1OphN91VMQWuA03h3con-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=0;flowAnimation=0;shape=link;" edge="1" parent="1" source="1OphN91VMQWuA03h3con-14" target="1OphN91VMQWuA03h3con-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1OphN91VMQWuA03h3con-14" value="MAHITKONE" style="image;html=1;image=img/lib/clip_art/computers/Monitor_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="710" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1OphN91VMQWuA03h3con-15" value="HTPC" style="image;html=1;image=img/lib/clip_art/computers/Monitor_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="710" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1OphN91VMQWuA03h3con-24" value="ESPHOME WIFI REITITIN" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="400" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1OphN91VMQWuA03h3con-26" value="PC-CONTROL" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot;" vertex="1" parent="1">
+          <mxGeometry x="570" y="610" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1OphN91VMQWuA03h3con-27" value="SOCKET" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot;" vertex="1" parent="1">
+          <mxGeometry x="660" y="610" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1OphN91VMQWuA03h3con-28" value="VINDRIKTNING" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot;" vertex="1" parent="1">
+          <mxGeometry x="760" y="610" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1OphN91VMQWuA03h3con-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=link;" edge="1" parent="1" source="1OphN91VMQWuA03h3con-13" target="1OphN91VMQWuA03h3con-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1OphN91VMQWuA03h3con-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;shape=link;" edge="1" parent="1" source="1OphN91VMQWuA03h3con-9" target="1OphN91VMQWuA03h3con-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="415" />
+              <mxPoint x="430" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
